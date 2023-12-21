@@ -1,2 +1,2 @@
 # Kalita
-Data Quality framework
+Data Quality Python framework for databases
